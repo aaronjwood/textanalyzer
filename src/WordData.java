@@ -1,4 +1,3 @@
-
 public class WordData implements IWordData {
 
     private final String analyzedWord;
